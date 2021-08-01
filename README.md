@@ -15,7 +15,7 @@ pacman -S xfce4
   
 Automatic install/update:
 ```
-sudo bash -c "$(curl -LSs https://github.com/casjay-themes/linux/raw/master/install.sh)"
+sudo bash -c "$(curl -LSs https://github.com/casjay-themes/linux/raw/main/install.sh)"
 ```
 Manual install:
 ```
